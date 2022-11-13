@@ -5,7 +5,7 @@ html   {
 
 body   {
     margin: 0;
-    background: linear-gradient(180deg, rgb(182, 159, 97), rgb(128, 89, 24)) fixed;
+    background: linear-gradient(180deg, #573a24, #c89a57) fixed;
     height: 100%;
     overflow-anchor: none;
 }
